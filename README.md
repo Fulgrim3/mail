@@ -11,6 +11,9 @@ AngularJS-powered HTML5 Markdown editor.
 - Type some Markdown on the left
 - See HTML in the right
 - ✨Magic ✨
+- Hi this is {Donald Ross} I am an intern for Capital Impact Group and we were updating our records and we were wondering if you could tell us who Assembly/Senator {NAME}’s Chief of Staff or legislative director is and their preferred email address. 
+
+Thank you so much. 
 
 ## Features
 
